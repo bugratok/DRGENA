@@ -491,12 +491,13 @@ footer {
 
 .carousel {
     box-shadow: 5px 5px 25px #000;
+    margin-bottom: 100px;
 }
 
 .carousel-item img {
     width: 100% !important;
     height: 500px !important;
-    object-fit:cover;
+    object-fit: cover;
 }
 
 footer {
