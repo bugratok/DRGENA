@@ -134,7 +134,7 @@ body{
         width: 100%;
         height: auto;
         margin-bottom: 100px;
-        z-index: -1 !important;
+        z-index: 0 !important;
     }
 
     .menu-list {
